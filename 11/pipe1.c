@@ -6,7 +6,7 @@
 
 int main(int argc, char *argv[]) {
   int fds[2];
-  char str[] = "Who are yog?";
+  char str[] = "Who are you?";
   char buf[BUF_SIZE];
   pid_t pid;
 
